@@ -67,3 +67,24 @@ Example:
 
 ```sh
 command to run your project
+
+Example
+Register a new account or log in with existing credentials.
+Create a new chat or join an existing one.
+Start messaging, sharing files, and customizing your chat experience.
+For more detailed usage instructions, refer to the [documentation](link to documentation).
+
+Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+License
+Distributed under the MIT License. See LICENSE for more information.
+
+Contact
+Your Name - aburaihanronyraj@gmail.com
+Project Link: https://github.com/yourusername/cablgram
