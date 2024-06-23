@@ -1,4 +1,4 @@
-# Cablgram Feeds
+# Cablgram
 
 ![License](https://img.shields.io/github/license/yourusername/yourrepository)
 ![Contributors](https://img.shields.io/github/contributors/yourusername/yourrepository)
@@ -6,7 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/yourusername/yourrepository)
 ![Stars](https://img.shields.io/github/stars/yourusername/yourrepository)
 
-## Cablgram About
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Welcome to **Project Name**! This project is designed to [brief description of what your project does]. Whether you're [target audience or use case], this project aims to [what it aims to solve or provide].
+Welcome to **Cablgram**! This project is designed to [brief description of what your project does]. Whether you're [target audience or use case], this project aims to [what it aims to solve or provide].
 
 ## Features
 
@@ -40,7 +40,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Cablgram-Feeds/General
+    git clone https://github.com/yourusername/yourrepository.git
     ```
 2. Navigate to the project directory:
     ```sh
